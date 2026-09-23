@@ -3,21 +3,21 @@
 # ========================================================================
 
 DISCORD_TOKEN=YOUR_BOT_TOKEN
-BOT_NAME=YOUR_BOT_NAME
+BOT_NAME=NebulaNodes VMS
 PREFIX=!
 YOUR_SERVER_IP=127.0.0.1
-MAIN_ADMIN_ID=SET_ADMIN_ROLE
-VPS_USER_ROLE_ID=SET_USER_ROLE
+MAIN_ADMIN_ID=1552181294610260048
+VPS_USER_ROLE_ID=1552180023203598393
 DEFAULT_STORAGE_POOL=default
 BOT_VERSION=8.0-PRO
-BOT_DEVELOPER=PapiaGamerz
-BOT_THUMBNAIL_URL=https://imgur.com/BjqmBsn.jpeg
-BOT_ICON_URL=https://imgur.com/BjqmBsn.jpeg
+BOT_DEVELOPER=Sifan
+BOT_THUMBNAIL_URL=
+BOT_ICON_URL=
 DEFAULT_VPS_EXPIRATION_DAYS=30
 EXPIRATION_WARNING_DAYS=1
-DEPLOY_RAM=16                        # GB RAM per self-deployed VPS
-DEPLOY_CPU=3                        # CPU cores
-DEPLOY_DISK=80                      # GB disk
+DEPLOY_RAM=0                        # GB RAM per self-deployed VPS
+DEPLOY_CPU=0                        # CPU cores
+DEPLOY_DISK=00                      # GB disk
 DEPLOY_ROLE_ID=SET_USER_ROLE
 DEPLOY_SLOT=50
-VPS_DEPLOY_LIMIT=2
+VPS_DEPLOY_LIMIT=0
