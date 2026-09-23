@@ -1,0 +1,23 @@
+# ========================================================================
+                              UPDATED V8 BOT
+# ========================================================================
+
+DISCORD_TOKEN=YOUR_BOT_TOKEN
+BOT_NAME=YOUR_BOT_NAME
+PREFIX=!
+YOUR_SERVER_IP=127.0.0.1
+MAIN_ADMIN_ID=SET_ADMIN_ROLE
+VPS_USER_ROLE_ID=SET_USER_ROLE
+DEFAULT_STORAGE_POOL=default
+BOT_VERSION=8.0-PRO
+BOT_DEVELOPER=PapiaGamerz
+BOT_THUMBNAIL_URL=https://imgur.com/BjqmBsn.jpeg
+BOT_ICON_URL=https://imgur.com/BjqmBsn.jpeg
+DEFAULT_VPS_EXPIRATION_DAYS=30
+EXPIRATION_WARNING_DAYS=1
+DEPLOY_RAM=16                        # GB RAM per self-deployed VPS
+DEPLOY_CPU=3                        # CPU cores
+DEPLOY_DISK=80                      # GB disk
+DEPLOY_ROLE_ID=SET_USER_ROLE
+DEPLOY_SLOT=50
+VPS_DEPLOY_LIMIT=2
